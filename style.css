@@ -1,0 +1,36 @@
+body{
+    background-color: #070461;
+
+}
+header{
+
+}
+ h1{
+    text-align: center;
+    border-bottom: 5px dotted white;
+    color: white;
+ }
+ p{
+    color: #e9e9fb;
+ }
+ main img{
+    float: centre;
+ }
+ .gameplay{
+    height: 300px;
+    width: 500px;
+    float: ;
+ }
+ footer{
+    color: white;
+    text-align: center;
+    background-color: #230591;
+    padding: 20px;
+ }
+footer a{
+   text-decoration: none;
+   color: white;
+   background-color: blue;
+   padding: 8px;
+}
+ 
